@@ -64,7 +64,7 @@ Created a one-page visual infographic using **Canva** covering: what digital lit
 
 ### Task 2 — Student Digital Portfolio *(Module 2 | 20 marks)*
 Set up professional profiles on three platforms:
-- **GitHub** — [`[github.com/yourusername](https://github.com/bajpaidhruv2018)`](https://github.com/bajpaidhruv2018) — For version control, open-source contributions, and project showcasing
+- **GitHub** — [`(https://github.com/bajpaidhruv2018)`](https://github.com/bajpaidhruv2018) — For version control, open-source contributions, and project showcasing
 - **LinkedIn** — For networking with professionals, internship hunting, and academic community engagement
 - **Kaggle** — For ML/AI competitions, datasets, and notebook sharing
 
