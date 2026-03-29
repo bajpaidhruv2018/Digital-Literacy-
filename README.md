@@ -35,7 +35,7 @@ digital-literacy-project/
 │   ├── github-profile.png           ← Screenshot of GitHub profile
 │   ├── linkedin-profile.png         ← Screenshot of LinkedIn profile
 │   ├── kaggle-profile.png           ← Screenshot of Kaggle profile
-│   └── reflection.md               ← Platform purpose + future plans
+│   
 │
 ├── task-3-platforms/
 │   ├── hackerrank-challenge.png     ← Completed HackerRank challenge screenshot
